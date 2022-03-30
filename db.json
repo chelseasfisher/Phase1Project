@@ -1,0 +1,22 @@
+{
+  "resturant": [
+    {
+      "id": 1,
+      "name": "Voodoo Donut",
+      "image": "https://d1ralsognjng37.cloudfront.net/a5bb3c5a-2fd6-429a-b514-57f6348b9c67.jpeg",
+      "likes": 100
+    },
+    {
+      "id": 2,
+      "name": "Cinnaholic",
+      "image": "https://s.hdnux.com/photos/01/00/62/35/16983884/3/rawImage.jpg",
+      "likes": 500
+    },
+    {
+      "id": 3,
+      "name": "Jus Mac",
+      "image": "https://bestfoodfeed.s3.amazonaws.com/media/228014/conversions/66005068_1402910779841076_9003493903592928810_n-highResolution.jpg",
+      "likes": 300
+    }
+  ]
+}
