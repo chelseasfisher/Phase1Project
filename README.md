@@ -59,21 +59,21 @@ Instructions:
 ## Authors and acknowledgment
 I used multiple different images from different restuarants. Below I have credited each image I have used. 
 Foodie Logo: https://images.squarespace-cdn.com/content/v1/5f18f416d071533c5872a9a1/1595518267015-4T68PQQWIOKSDF8LZ4SX/foodie.png?format=1500w"   
-Voodoo Donut: https://voodoodoughnutshop.com/images/thumbs/0000384_voodoo-doughnut-round-logo-sticker_600.jpeg
-Voodoo Donut: https://d1ralsognjng37.cloudfront.net/a5bb3c5a-2fd6-429a-b514-57f6348b9c67.jpeg
-Cinnaholic: https://images.squarespace-cdn.com/content/v1/5c572de1b9144972dc86c333/1553629061324-VVRUHCAPN2J4SP2UNNES/Cinnaholic_Logo.png
-Cinnaholic: https://s.hdnux.com/photos/01/00/62/35/16983884/3/rawImage.jpg
-Jus Mac: https://lirp.cdn-website.com/832ecfb5/dms3rep/multi/opt/JUS+MAC+NEW+WEB+Logo+Mobile+Phone-640w.png
-Jus Mac:https://bestfoodfeed.s3.amazonaws.com/media/228014/conversions/66005068_1402910779841076_9003493903592928810_n-highResolution.jpg
-Kamp Houston: https://blackrestaurantweeks.com/wp-content/uploads/2021/03/7296F0EF-394C-4F80-9C3E-18C9F6A8C1D9-1.png
-Crumbl Cookie: https://s.hdnux.com/photos/01/20/42/14/21111558/3/rawImage.jpg
-Turkey Leg Hut: https://theturkeyleghut.com/wp-content/uploads/2021/07/cropped-TLH-Site-Icon-Logo-2-.png
-Flowers & Cream: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfjpOw3ukC-IgseszgmmiZbv7vUFIpsbNtzA&usqp=CAU
-Snowy Village:https://media-cdn.grubhub.com/image/upload/d_search:browse-images:default.jpg/w_1200,h_800,f_auto,fl_lossy,q_80,c_fit/vmonmpf7tfjcthtxpy8n
-Candy Shack:https://bloximages.newyork1.vip.townnews.com/fortbendstar.com/content/tncms/assets/v3/editorial/8/0a/80ac0488-4199-11ec-b55f-6bac531dede7/618ad66897dbd.image.jpg?resize=1200%2C800
-Ricebox: https://images.squarespace-cdn.com/content/v1/5ad6da9f96e76f5332a34111/1524031271760-6F3U6EOYUGNFHLQC56VG/ric-animatedlogo-neon2x.png
-Don Leti: https://images.squarespace-cdn.com/content/v1/5d7134d45780fb0001c955c4/1644086991638-N4OL98GFGTQ2FJBMTFSS/image-asset.jpeg
-Main Bird: https://communityimpact.com/uploads/images/2021/07/28/150767.jpg
+1. Voodoo Donut: https://voodoodoughnutshop.com/images/thumbs/0000384_voodoo-doughnut-round-logo-sticker_600.jpeg
+2. Voodoo Donut: https://d1ralsognjng37.cloudfront.net/a5bb3c5a-2fd6-429a-b514-57f6348b9c67.jpeg
+3. Cinnaholic: https://images.squarespace-cdn.com/content/v1/5c572de1b9144972dc86c333/1553629061324-VVRUHCAPN2J4SP2UNNES/Cinnaholic_Logo.png
+4. Cinnaholic: https://s.hdnux.com/photos/01/00/62/35/16983884/3/rawImage.jpg
+5. Jus Mac: https://lirp.cdn-website.com/832ecfb5/dms3rep/multi/opt/JUS+MAC+NEW+WEB+Logo+Mobile+Phone-640w.png
+6. Jus Mac:https://bestfoodfeed.s3.amazonaws.com/media/228014/conversions/66005068_1402910779841076_9003493903592928810_n-highResolution.jpg
+7. Kamp Houston: https://blackrestaurantweeks.com/wp-content/uploads/2021/03/7296F0EF-394C-4F80-9C3E-18C9F6A8C1D9-1.png
+8. Crumbl Cookie: https://s.hdnux.com/photos/01/20/42/14/21111558/3/rawImage.jpg
+9. urkey Leg Hut: https://theturkeyleghut.com/wp-content/uploads/2021/07/cropped-TLH-Site-Icon-Logo-2-.png
+10. Flowers & Cream: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfjpOw3ukC-IgseszgmmiZbv7vUFIpsbNtzA&usqp=CAU
+11. Snowy Village:https://media-cdn.grubhub.com/image/upload/d_search:browse-images:default.jpg/w_1200,h_800,f_auto,fl_lossy,q_80,c_fit/vmonmpf7tfjcthtxpy8n
+12. Candy Shack:https://bloximages.newyork1.vip.townnews.com/fortbendstar.com/content/tncms/assets/v3/editorial/8/0a/80ac0488-4199-11ec-b55f-6bac531dede7/618ad66897dbd.image.jpg?resize=1200%2C800
+13. Ricebox: https://images.squarespace-cdn.com/content/v1/5ad6da9f96e76f5332a34111/1524031271760-6F3U6EOYUGNFHLQC56VG/ric-animatedlogo-neon2x.png
+14. Don Leti: https://images.squarespace-cdn.com/content/v1/5d7134d45780fb0001c955c4/1644086991638-N4OL98GFGTQ2FJBMTFSS/image-asset.jpeg
+15. Main Bird: https://communityimpact.com/uploads/images/2021/07/28/150767.jpg
 
 ## Project status
 
